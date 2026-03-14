@@ -53,5 +53,21 @@ Export or recover files if required for the investigation.
 ## OUTPUT:
 File and Folder Configuration Analysis Results
 
+  
+   ![image]((https://github.com/Aankarsh/Install-Autopsy-and-Analyze-the-Disk-File-and-Folder-Configuration/blob/main/create%20case.png))
+
+  
+  ![image](https://github.com/Aankarsh/Install-Autopsy-and-Analyze-the-Disk-File-and-Folder-Configuration/blob/main/file%20analysis.png)
+
+
+  
+  ![image](https://github.com/Aankarsh/Install-Autopsy-and-Analyze-the-Disk-File-and-Folder-Configuration/blob/main/file%20metadata.png)
+
+
+  
+  ![image](https://github.com/Aankarsh/Install-Autopsy-and-Analyze-the-Disk-File-and-Folder-Configuration/blob/main/analyse%20report.jpeg)
+
+
+
 ## RESULT:
 Autopsy was installed successfully and used to analyze disk, file, and folder configuration for forensic investigation.
